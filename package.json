@@ -1,0 +1,24 @@
+{
+  "name": "@gswag/kafkajs-partition-assigner",
+  "version": "1.0.0",
+  "description": "Custom partition assigner to handle multiple consumers under same group",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asif-mahmud/kafkajs-partition-assigner.git"
+  },
+  "keywords": [
+    "kafka",
+    "kafkajs",
+    "partition-assigner"
+  ],
+  "author": "Asif Mahmud Shimon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asif-mahmud/kafkajs-partition-assigner/issues"
+  },
+  "homepage": "https://github.com/asif-mahmud/kafkajs-partition-assigner#readme"
+}
