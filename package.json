@@ -1,6 +1,6 @@
 {
   "name": "@gswag/kafkajs-partition-assigner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom partition assigner to handle multiple consumers under same group",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
